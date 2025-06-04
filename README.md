@@ -220,6 +220,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Peace Nepal DOT Com P. Ltd.](https://peacenepal.com.np/) | Kupondole, Lalitpur | Website and Software Development, SEO, Web Hosting, Web Graphic and Logo Design
 - [Perfect Active Solutions Pvt. Ltd.](https://pas.com.np/) | Old Baneshwor, Kathmandu | Website and Software Development for organizations operating in Nepal
 - [Pioneer Solutions](https://www.pioneersolutionsglobal.com/) | Sitapaila Chowk, Kathmandu | Next Generation C/ETRM and EMIS Software
+- [Plus Point Solution](https://pluspointsolution.com/) | Buddhanagar, Kathmandu | Digital marketing agency offering SEO, social media marketing, web design & development, and branding services.
 - [Professional Computer System Pvt. Ltd.](https://www.pcs.com.np/) | Chakupat, Lalitpur | We develop national or enterprise-wide application for Government, Banking & Financial Sectors and Manufacturing Industries Verticals
 - [Progressive Labs Pvt. Ltd.](https://progressivelabs.tech/) | Baneshwor, Kathmandu | Web and mobile app development
 - [Proshore](https://proshore.nl/) | Tinkune, Kathmandu | New media solutions that enable you to achieve your goal
